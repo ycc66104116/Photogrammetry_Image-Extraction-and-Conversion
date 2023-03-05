@@ -1,4 +1,4 @@
-# Photogrammetry_Image-Extraction-and-Conversion
+# Photogrammetry_Image_Extraction_and_Conversion
 # Application_1 Using Tutorial
 ## You can do simple image band extraction (RGB) and conversion (negative and gray) through the program here.
 * Download the whole file in this repository.
